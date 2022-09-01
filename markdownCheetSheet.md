@@ -1,4 +1,4 @@
 # Header
 ## Smaller Header
 *Italic*
-_BOLD_
+**BOLD**
